@@ -1,0 +1,9 @@
+/EProfit/bin
+/EProfit/obj
+/Eve/bin
+/Eve/obj
+/*.suo
+/_ReSharper.Eve
+/packages
+/Eve/*.user
+/EProfit/*.user
